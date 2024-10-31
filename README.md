@@ -1,1 +1,3 @@
-I have scrapped data using pyhon request and created personal token from git hub 
+- I have scrapped data using python request and created personal token from git hub account to increase query request per hour. First i gathered all the users and then their's latest 500 hundrered repositories.
+- The most interesting thing about data is that my watchers count was equal to stargazers count in almost  all enteries suggesting whoever watches the repositiers also stars it
+- I would recommend to developers to focus on creating good repositories.
